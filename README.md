@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=200&section=header&text=eojindesu&fontSize=50&fontColor=000000&textY=40" />
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=200&section=header&text=eojindesu&fontSize=50&fontColor=000000&textY=40" />
+</p>
 
 <h3 align="center">👩🏻‍💻 Once I've used</h3>
 
@@ -28,3 +29,21 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
 </div>
+
+<br><br><br>
+
+<div align="center">
+  .<br>
+  .<br>
+  .<br>
+</div>
+
+<br><br><br>
+
+<div align="center">
+  <!-- solved.ac -->
+  <a href="https://solved.ac/seamonkeygambas">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seamonkeygambas" height="140"/>
+  </a>
+</div>
+
