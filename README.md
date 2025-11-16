@@ -29,21 +29,3 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
 </div>
-
-<br><br><br>
-
-<div align="center">
-  .<br>
-  .<br>
-  .<br>
-</div>
-
-<br><br><br>
-
-<div align="center">
-  <!-- solved.ac -->
-  <a href="https://solved.ac/seamonkeygambas">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seamonkeygambas" height="140"/>
-  </a>
-</div>
-
