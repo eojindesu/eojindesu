@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=200&section=header&text=eojindesu&fontSize=50&fontColor=000000&textY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=EFE7DA&height=200&section=header&text=eojindesu&fontSize=50&fontColor=4A4036" />
 </p>
 
 <h3 align="center">👩🏻‍💻 Once I've used</h3>
